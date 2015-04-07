@@ -1,0 +1,16 @@
+a{
+text-decoration: underline;
+    color:blue
+}
+body{
+    background-color:  #F5F5F5;
+}
+body table tbody tr {
+    text-decoration: underline;
+    color: red;
+}
+
+body div{
+text-decoration: underline;
+    color:blue
+} 
